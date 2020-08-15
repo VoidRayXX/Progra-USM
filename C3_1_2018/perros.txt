@@ -1,0 +1,7 @@
+01-01-2015;boby;salchicha;muerde;collar de ahorque
+02-03-2016;billy;pastor aleman;miedo;toque al costado
+10-12-2016;boby;san bernardo;muerde;collar de ahorque
+24-01-2017;willson;salchicha;miedo;toque al costado
+04-02-2017;willson;san bernardo;miedo;toque al costado
+03-02-2018;firulais;labrador;estres;SHHH
+03-03-2018;firulais;pequines;estres;SHHH

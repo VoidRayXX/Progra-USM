@@ -1,0 +1,8 @@
+01-Colegio el Salvador
+02-Colegio Santa Ines
+03-Instituto Regional
+04-Python College
+05-Manuel of Classroom
+06-Pythonsianos
+07-Python F14
+11-Python School

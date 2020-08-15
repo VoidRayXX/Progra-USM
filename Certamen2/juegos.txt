@@ -1,0 +1,946 @@
+﻿Super Mario 64 DS;1;Action;Nintendo;85;24.95;Nintendo DS;E;2004
+Lumines: Puzzle Fusion;1;Strategy;Ubisoft;89;14.95;Sony PSP;E;2004
+WarioWare Touched!;2;Action,Racing-Driving,Sports;Nintendo;81;22.95;Nintendo DS;E;2004
+Hot Shots Golf: Open Tee;1;Sports;Sony;81;12.95;Sony PSP;E;2004
+Spider-Man 2;1;Action;Activision;61;14.95;Nintendo DS;E;2004
+The Urbz: Sims in the City;1;Simulation;EA;67;12.95;Nintendo DS;M;2004
+Ridge Racer;1;Racing-Driving;Namco;88;19.95;Sony PSP;E;2004
+Metal Gear Ac!d;1;Strategy;Konami;75;17.95;Sony PSP;E;2004
+Madden NFL 2005;1;Sports;EA;68;8.95;Nintendo DS;T;2004
+Pokmon Dash;1;Racing-Driving;Nintendo;46;24.95;Nintendo DS;T;2004
+Feel the Magic XY/XX;1;Action,Adventure,Racing-Driving,Sports;Sega;75;8.95;Nintendo DS;T;2004
+Ridge Racer DS;1;Racing-Driving;Namco;63;9.95;Nintendo DS;E;2004
+Darkstalkers Chronicle: The Chaos Tower;1;Action;Capcom;74;14.95;Sony PSP;E;2004
+Ape Escape Academy;4;Action,Sports;Sony;51;14.95;Sony PSP;E;2004
+Polarium;1;Strategy;Nintendo;73;8.95;Nintendo DS;E;2004
+Asphalt: Urban GT;1;Racing-Driving,Simulation;Ubisoft;60;14.95;Nintendo DS;E;2004
+Mr. DRILLER: Drill Spirits;1;Action;Namco;72;14.95;Nintendo DS;T;2004
+Sprung;1;Adventure;Ubisoft;48;8.95;Nintendo DS;E;2004
+Puyo Pop Fever;1;Action,Strategy;Sega;76;19.95;Nintendo DS;E;2004
+Mario Kart DS;1;Racing-Driving;Nintendo;91;29.95;Nintendo DS;E;2005
+Nintendogs;1;Simulation;Nintendo;83;26.95;Nintendo DS;E;2005
+Brain Age: Train Your Brain in Minutes a Day!;1;Action;Nintendo;77;17.95;Nintendo DS;M;2005
+Brain Agey: More Training in Minutes a Day!;1;Action;Nintendo;77;17.95;Nintendo DS;E;2005
+Grand Theft Auto: Liberty City Stories;1;Action,Racing-Driving;Capcom,Rockstar;88;17.95;Sony PSP;E;2005
+Animal Crossing: Wild World;1;Simulation;Nintendo;86;24.95;Nintendo DS;T;2005
+Big Brain Academy;1;Action;Nintendo;74;16.95;Nintendo DS;E;2005
+Call of Duty 2;4;Action;Activision,Konami;89;17.95;X360;E;2005
+Midnight Club 3: DUB Edition;1;Racing-Driving;Rockstar;74;14.95;Sony PSP;T;2005
+Need for Speed: Most Wanted 5-1-0;1;Racing-Driving;EA;72;14.95;Sony PSP;M;2005
+Pokmon Mystery Dungeon: Blue Rescue Team;1;Role-Playing;Nintendo;62;14.95;Nintendo DS;T;2005
+Sonic Rush;1;Action;Sega;82;14.95;Nintendo DS;E;2005
+SOCOM: U.S. Navy SEALs - Fireteam Bravo;1;Action;Sony;82;14.95;Sony PSP;E;2005
+Need for Speed: Most Wanted;2;Racing-Driving;EA;83;17.95;X360;E;2005
+Zoo Tycoon DS;1;Simulation,Strategy;THQ;44;12.95;Nintendo DS;T;2005
+The Sims 2;1;Role-Playing,Simulation;EA;70;17.95;Nintendo DS;M;2005
+Mario & Luigi: Partners in Time;1;Action,Role-Playing;Nintendo;86;29.95;Nintendo DS;E;2005
+Madden NFL 06;1;Sports;EA;75;7.95;Sony PSP;E;2005
+Need for Speed Underground: Rivals;4;Racing-Driving;EA;74;17.95;Sony PSP;E;2005
+Twisted Metal: Head-On;1;Action,Racing-Driving;Sony;79;14.95;Sony PSP;E;2005
+Perfect Dark Zero;4;Action;Microsoft;79;17.95;X360;E;2005
+Super Monkey Ball: Touch & Roll;1;Action;Sega;63;15.95;Nintendo DS;T;2005
+Super Princess Peach;1;Action;Nintendo;75;29.95;Nintendo DS;T;2005
+Burnout Legends;1;Action,Racing-Driving;EA;86;14.95;Sony PSP;T;2005
+Madden NFL 06;2;Sports;EA;74;4.95;X360;E;2005
+Clubhouse Games;1;Strategy;Nintendo;83;17.95;Nintendo DS;E;2005
+ATV Offroad Fury: Blazin' Trails;4;Racing-Driving,Sports;Sony;63;12.95;Sony PSP;T;2005
+Untold Legends: Brotherhood of the Blade;1;Action,Role-Playing;Activision,Sony;68;12.95;Sony PSP;M;2005
+Tony Hawk's Underground 2: Remix;1;Sports;Activision;83;14.95;Sony PSP;T;2005
+The Sims 2;1;Simulation,Strategy;EA;65;14.95;Sony PSP;T;2005
+WipEout Pure;1;Action,Racing-Driving;Sony;88;12.95;Sony PSP;E;2005
+NBA Live 06;1;Sports;EA;80;9.95;Sony PSP;E;2005
+WWE Smackdown vs. Raw 2006;4;Action,Sports;THQ;81;14.95;Sony PSP;T;2005
+Phoenix Wright: Ace Attorney;1;Adventure,Simulation;Capcom;81;24.95;Nintendo DS;E;2005
+Spider-Man 2;1;Action;Activision;67;14.95;Sony PSP;M;2005
+NFL Street 2;4;Sports;EA;73;17.95;Sony PSP;T;2005
+Kirby: Canvas Curse;1;Action;Nintendo;86;17.95;Nintendo DS;T;2005
+Battlefield 2: Modern Combat;4;Action;EA;77;16.95;X360;E;2005
+Yoshi Touch & Go;1;Action;Nintendo;73;17.95;Nintendo DS;T;2005
+Tiger Woods PGA Tour 06;4;Sports;EA;71;9.95;X360;T;2005
+Condemned: Criminal Origins;1;Action,Adventure;Sega;81;14.95;X360;E;2005
+Peter Jackson's King Kong: The Official Game of...;2;Action;Ubisoft;80;14.95;X360;T;2005
+Castlevania: Dawn of Sorrow;1;Action,Role-Playing;Konami;89;17.95;Nintendo DS;T;2005
+SpongeBob SquarePants: The Yellow Avenger;1;Action;THQ;67;13.95;Nintendo DS;E;2005
+Marvel Nemesis: Rise of the Imperfects;1;Action;EA;58;17.95;Sony PSP;T;2005
+Kameo: Elements of Power;1;Action;Microsoft;79;11.95;X360;T;2005
+Advance Wars: Dual Strike;1;Strategy;Nintendo;90;17.95;Nintendo DS;T;2005
+Trauma Center: Under the Knife;1;Action,Simulation;Nintendo;81;15.95;Nintendo DS;T;2005
+Coded Arms;1;Action;Konami;59;12.95;Sony PSP;M;2005
+NBA LIVE 06;1;Sports;EA;64;4.95;X360;E;2005
+Tony Hawk's American Wasteland;1;Sports;Activision;75;14.95;X360;E;2005
+Star Wars: Episode III - Revenge of the Sith;1;Action;Ubisoft;73;16.95;Nintendo DS;E;2005
+Capcom Classics Collection Remixed;1;Action;Capcom;72;17.95;Sony PSP;E;2005
+Madagascar;1;Adventure;Activision;66;14.95;Nintendo DS;E;2005
+X-Men: Legends II - Rise of Apocalypse;1;Action,Role-Playing;Activision;84;17.95;Sony PSP;M;2005
+Quake 4;1;Action;Activision;75;14.95;X360;E;2005
+Pokmon Trozei!;1;Strategy;Nintendo;74;19.95;Nintendo DS;E;2005
+Need for Speed: Most Wanted;1;Racing-Driving;EA;45;15.95;Nintendo DS;E;2005
+Mega Man Maverick Hunter X;1;Action;Capcom;79;17.95;Sony PSP;E;2005
+Metroid Prime Pinball;1;Action,Simulation;Nintendo;79;17.95;Nintendo DS;E;2005
+NBA 06;1;Sports;Sony;72;9.95;Sony PSP;E;2005
+GUN;1;Action,Racing-Driving,Role-Playing;Activision;75;19.95;X360;E;2005
+NBA 2K6;1;Sports;2K;81;4.95;X360;E;2005
+Harry Potter and the Goblet of Fire;1;Action;EA;68;17.95;Nintendo DS;T;2005
+Tony Hawk's American Sk8land;1;Sports;Activision;84;16.95;Nintendo DS;E;2005
+MVP Baseball;1;Sports;EA;67;4.95;Sony PSP;M;2005
+Tiger Woods PGA Tour;1;Sports;EA;78;17.95;Sony PSP;E;2005
+World Series of Poker;1;Sports,Strategy;Activision;37;14.95;Sony PSP;E;2005
+SSX on Tour;1;Sports;EA;79;16.95;Sony PSP;E;2005
+Tiger Woods PGA Tour 06;1;Sports;EA;80;9.95;Sony PSP;T;2005
+Death Jr.;1;Action;Konami;61;9.95;Sony PSP;M;2005
+Harry Potter and the Goblet of Fire;1;Action;EA;70;17.95;Sony PSP;T;2005
+MediEvil Resurrection;1;Action;Sony;66;17.95;Sony PSP;T;2005
+Shrek SuperSlam;1;Action;Activision;56;11.95;Nintendo DS;E;2005
+Virtua Tennis: World Tour;1;Sports;Sega;84;14.95;Sony PSP;M;2005
+Prince of Persia: Revelations;1;Action;Ubisoft;65;6.95;Sony PSP;E;2005
+Burnout Legends;1;Action,Racing-Driving;EA;38;17.95;Nintendo DS;E;2005
+Meteos;1;Strategy;Nintendo;88;15.95;Nintendo DS;E;2005
+The Con;1;Action;Sony;63;8.95;Sony PSP;E;2005
+Pursuit Force;1;Action,Racing-Driving;Sony;75;14.95;Sony PSP;M;2005
+Kingdom of Paradise;2;Action,Role-Playing;Sony;72;12.95;Sony PSP;E;2005
+Dragon Ball Z: Supersonic Warriors 2;1;Action;Atari;66;22.95;Nintendo DS;E;2005
+Dragon Quest Heroes: Rocket Slime;1;Action;SquareEnix;83;12.95;Nintendo DS;T;2005
+Dead to Rights: Reckoning;1;Action;Namco;54;14.95;Sony PSP;E;2005
+Amped 3;1;Sports;2K;72;14.95;X360;E;2005
+Lunar: Dragon Song;1;Role-Playing;Ubisoft;59;14.95;Nintendo DS;M;2005
+Madden NFL 06;1;Sports;EA;66;9.95;Nintendo DS;E;2005
+Retro Atari Classics;1;Action,Racing-Driving,Simulation;Atari;51;12.95;Nintendo DS;E;2005
+True Swing Golf;1;Sports;Nintendo;66;14.95;Nintendo DS;E;2005
+FIFA Soccer;1;Sports;EA;73;14.95;Sony PSP;E;2005
+Metal Gear Ac!d 2;1;Strategy;Konami;80;12.95;Sony PSP;E;2005
+Bomberman;1;Strategy;Ubisoft;75;17.95;Nintendo DS;E;2005
+GoldenEye: Rogue Agent;1;Action;EA;58;14.95;Nintendo DS;T;2005
+Need for Speed Underground 2;1;Racing-Driving;EA;65;22.95;Nintendo DS;T;2005
+Frogger: Helmet Chaos;1;Action;Konami;66;19.95;Sony PSP;E;2005
+The Lord of the Rings: Tactics;1;Role-Playing,Strategy;EA;64;19.95;Sony PSP;M;2005
+Rengoku: The Tower of Purgatory;1;Action,Role-Playing;Konami;43;12.95;Sony PSP;E;2005
+Gretzky NHL;2;Sports;Sony;61;9.95;Sony PSP;E;2005
+Ridge Racer 6;2;Racing-Driving;EA,Namco;74;14.95;X360;E;2005
+NHL 2K6;1;Sports;2K;75;5.95;X360;T;2005
+Battles of Prince of Persia;1;Strategy;Ubisoft;64;14.95;Nintendo DS;E;2005
+GripShift;1;Racing-Driving;Ubisoft;70;9.95;Sony PSP;E;2005
+Marvel Nemesis: Rise of the Imperfects;1;Action;EA;34;14.95;Nintendo DS;T;2005
+Scooby-Doo! Unmasked;1;Action;THQ;60;17.95;Nintendo DS;E;2005
+Viewtiful Joe: Double Trouble!;1;Action;Capcom;73;14.95;Nintendo DS;E;2005
+Lost in Blue;1;Role-Playing;Konami;69;24.95;Nintendo DS;T;2005
+Ghost in the Shell: Stand Alone Complex;1;Action;Sony;61;14.95;Sony PSP;E;2005
+Dig Dug: Digging Strike;1;Action;Namco;65;16.95;Nintendo DS;E;2005
+Frogger: Helmet Chaos;1;Action;Konami;69;17.95;Nintendo DS;E;2005
+Mega Man Battle Network 5: Double Team DS;1;Action,Role-Playing;Capcom;68;17.95;Nintendo DS;E;2005
+Nanostray;1;Action;THQ;71;17.95;Nintendo DS;E;2005
+Sega Casino;1;Simulation;Sega;61;17.95;Nintendo DS;M;2005
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare;1;Action,Adventure;Konami;58;17.95;Nintendo DS;T;2005
+Pac-Man World 3;1;Action;EA,Namco;61;24.95;Sony PSP;E;2005
+Exit;1;Action;Ubisoft;77;9.95;Sony PSP;E;2005
+The Rub Rabbits!;2;Action,Adventure;Sega;68;17.95;Nintendo DS;M;2005
+Electroplankton;1;Simulation;Nintendo;71;29.95;Nintendo DS;T;2005
+Wii Play;2;Action,Sports;Nintendo;58;14.95;Nintendo Wii;T;2006
+New Super Mario Bros.;1;Action;Nintendo;89;27.95;Nintendo DS;T;2006
+Pokmon Diamond;1;Role-Playing;Nintendo;85;27.95;Nintendo DS;E;2006
+Pokmon Pearl;1;Role-Playing;Nintendo;85;26.95;Nintendo DS;E;2006
+Gears of War;2;Action;Microsoft;94;19.95;X360;M;2006
+The Legend of Zelda: Twilight Princess;1;Action,Role-Playing;Nintendo;95;39.95;Nintendo Wii;M;2006
+Marvel Ultimate Alliance;4;Action,Role-Playing;Activision;82;14.95;X360;T;2006
+Daxter;1;Action;Sony;85;14.95;Sony PSP;T;2006
+The Elder Scrolls IV: Oblivion;1;Action,Role-Playing;2K;94;19.95;X360;E;2006
+Madden NFL 07;2;Sports;EA;80;4.95;X360;E;2006
+Grand Theft Auto: Vice City Stories;1;Action,Racing-Driving;Rockstar;86;17.95;Sony PSP;E;2006
+Resistance: Fall of Man;4;Action;Sony;86;19.95;PlayStation 3;E;2006
+MotorStorm;1;Action,Racing-Driving,Sports;Sony;82;16.95;PlayStation 3;T;2006
+Call of Duty 3;2;Action;Activision;82;16.95;X360;T;2006
+Yoshi's Island DS;1;Action;Nintendo;81;27.95;Nintendo DS;E;2006
+Fight Night Round 3;2;Action,Sports;EA;86;14.95;X360;E;2006
+Pokmon Ranger;1;Role-Playing;Nintendo;69;19.95;Nintendo DS;E;2006
+Rayman Raving Rabbids;4;Action;Ubisoft;76;17.95;Nintendo Wii;T;2006
+Saints Row;1;Action,Racing-Driving;THQ;81;14.95;X360;T;2006
+Tom Clancy's Rainbow Six: Vegas;2;Action;Ubisoft;88;14.95;X360;E;2006
+Dead Rising;1;Action;Capcom;85;16.95;X360;E;2006
+Call of Duty 3;1;Action;Activision;69;19.95;Nintendo Wii;E;2006
+Lost Planet: Extreme Condition;1;Action;Capcom;79;12.95;X360;M;2006
+Mario Hoops 3 on 3;1;Sports;Nintendo;69;22.95;Nintendo DS;M;2006
+LEGO Star Wars II: The Original Trilogy;1;Action;EA;47;17.95;Nintendo DS;E;2006
+Super Monkey Ball: Banana Blitz;4;Action;Sega;74;14.95;Nintendo Wii;T;2006
+The Sims 2: Pets;1;Simulation;EA;49;14.95;Nintendo DS;T;2006
+Need for Speed: Carbon - Own the City;1;Racing-Driving;EA;73;16.95;Sony PSP;E;2006
+WarioWare: Smooth Moves;6;Action,Racing-Driving,Sports;Nintendo;83;39.95;Nintendo Wii;T;2006
+Fight Night Round 3;2;Action,Sports;EA;83;13.95;PlayStation 3;T;2006
+Final Fantasy III;1;Role-Playing;SquareEnix;77;17.95;Nintendo DS;E;2006
+SOCOM: U.S. Navy SEALs - Fireteam Bravo 2;1;Action;Sony;81;16.95;Sony PSP;E;2006
+Madden NFL 07;1;Sports;EA;78;9.95;Sony PSP;E;2006
+Monster 4x4: World Circuit;4;Racing-Driving;Ubisoft;51;12.95;Nintendo Wii;E;2006
+Kirby: Squeak Squad;1;Action;Nintendo;71;27.95;Nintendo DS;T;2006
+Pokmon Battle Revolution;4;Action,Strategy;Nintendo;53;39.95;Nintendo Wii;T;2006
+Medal of Honor: Heroes;1;Action;EA;71;14.95;Sony PSP;E;2006
+Tekken: Dark Resurrection;1;Action;Namco,Sony;88;17.95;Sony PSP;E;2006
+Need for Speed: Carbon;2;Racing-Driving;EA;77;16.95;X360;E;2006
+Mario vs. Donkey Kong 2: March of the Minis;1;Action;Nintendo;76;27.95;Nintendo DS;T;2006
+Sonic Rivals;1;Action,Racing-Driving;Sega;64;17.95;Sony PSP;T;2006
+NCAA Football 07;2;Sports;EA;79;4.95;X360;E;2006
+Mortal Kombat: Unchained;2;Action;Midway;70;17.95;Sony PSP;E;2006
+Tom Clancy's Splinter Cell: Double Agent;1;Action;Ubisoft;85;17.95;X360;E;2006
+Tetris DS;1;Strategy;Nintendo;84;17.95;Nintendo DS;M;2006
+Red Steel;4;Action;Ubisoft;63;14.95;Nintendo Wii;T;2006
+Metroid Prime: Hunters;1;Action;Nintendo;85;27.95;Nintendo DS;E;2006
+NBA 2K7;1;Sports;2K;84;4.95;X360;E;2006
+SEGA Genesis Collection;2;Action,Racing-Driving,Role-Playing,Strategy;Sega;82;17.95;Sony PSP;T;2006
+Call of Duty 3;1;Action;Activision;80;19.95;PlayStation 3;T;2006
+NBA Live 07;1;Sports;EA;64;7.95;Sony PSP;E;2006
+Madden NFL 07;2;Sports;EA;76;6.95;PlayStation 3;T;2006
+SpongeBob SquarePants: The Yellow Avenger;1;Action;THQ;48;12.95;Sony PSP;T;2006
+Madden NFL 07;4;Sports;EA;81;9.95;Nintendo Wii;E;2006
+Fight Night Round 3;2;Action,Simulation,Sports;EA;74;16.95;Sony PSP;T;2006
+Need for Speed: Carbon;2;Racing-Driving;EA;75;17.95;PlayStation 3;T;2006
+Need for Speed: Carbon;2;Racing-Driving;EA;67;17.95;Nintendo Wii;M;2006
+WWE SmackDown vs. Raw 2007;4;Sports;THQ;81;12.95;X360;E;2006
+Tiger Woods PGA Tour 07;1;Sports;EA;80;9.95;X360;T;2006
+Viva Pi$?ata;4;Simulation,Strategy;Microsoft;84;16.95;X360;E;2006
+SpongeBob Squarepants: Creature from the Krusty Krab;1;Action,Adventure;THQ;57;14.95;Nintendo Wii;T;2006
+Tony Hawk's Project 8;2;Sports;Activision;68;17.95;Sony PSP;M;2006
+Tony Hawk's Project 8;2;Sports;Activision;81;16.95;X360;E;2006
+NBA LIVE 07;1;Sports;EA;59;4.95;X360;T;2006
+Excite Truck;2;Racing-Driving;Nintendo;72;19.95;Nintendo Wii;M;2006
+Star Fox Command;1;Action;Nintendo;76;14.95;Nintendo DS;T;2006
+Metal Gear Solid: Portable Ops;1;Action,Strategy;Konami;87;17.95;Sony PSP;T;2006
+Marvel Ultimate Alliance;4;Action,Role-Playing;Activision;73;17.95;Nintendo Wii;M;2006
+Blazing Angels: Squadrons of WWII;2;Action;Ubisoft;66;16.95;X360;E;2006
+Major League Baseball 2K6;2;Sports;2K;66;4.95;X360;T;2006
+NCAA Football 07;1;Sports;EA;75;9.95;Sony PSP;T;2006
+MLB 06: The Show;2;Sports;Sony;83;9.95;Sony PSP;T;2006
+Blazing Angels: Squadrons of WWII;2;Action;Ubisoft;67;16.95;PlayStation 3;T;2006
+WWE SmackDown vs. Raw 2007;4;Sports;THQ;78;14.95;Sony PSP;T;2006
+Marvel Ultimate Alliance;1;Action,Role-Playing;Activision;81;22.95;Sony PSP;E;2006
+Marvel Ultimate Alliance;4;Action,Role-Playing;Activision;78;24.95;PlayStation 3;M;2006
+Tiger Woods PGA Tour 07;4;Sports;EA;81;14.95;PlayStation 3;E;2006
+Ace Combat X: Skies of Deception;1;Action,Simulation;Namco;75;22.95;Sony PSP;E;2006
+Killzone: Liberation;1;Action,Strategy;Sony;77;16.95;Sony PSP;M;2006
+NBA 2K7;7;Sports;2K;80;7.95;PlayStation 3;E;2006
+Tony Hawk's Project 8;2;Sports;Activision;76;14.95;PlayStation 3;T;2006
+Avatar: The Last Airbender;1;Action;THQ;64;17.95;Nintendo DS;E;2006
+Castlevania: Portrait of Ruin;1;Action;Konami;85;17.95;Nintendo DS;M;2006
+Hitman: Blood Money;1;Action;Eidos;82;22.95;X360;E;2006
+Rockstar Games presents Table Tennis;2;Sports;Rockstar;81;9.95;X360;M;2006
+Trauma Center: Second Opinion;1;Action,Simulation;Nintendo;80;17.95;Nintendo Wii;T;2006
+Tenchu Z;1;Action;Microsoft;56;14.95;X360;E;2006
+Elite Beat Agents;1;Action;Nintendo;87;9.95;Nintendo DS;M;2006
+Street Fighter Alpha 3 MAX;1;Action;Capcom;80;14.95;Sony PSP;M;2006
+Blue Dragon;1;Role-Playing;Microsoft;79;14.95;X360;T;2006
+The Lord of the Rings: The Battle for Middle Ea...;1;Strategy;EA;79;19.95;X360;T;2006
+Prey;1;Action;2K;79;14.95;X360;T;2006
+Over the Hedge;1;Adventure;Activision;71;16.95;Nintendo DS;E;2006
+Capcom Classics Collection Reloaded;1;Action;Capcom;75;17.95;Sony PSP;T;2006
+NHL 07;1;Sports;EA;79;5.95;X360;T;2006
+Monster Hunter Freedom;1;Action,Strategy;Capcom;71;12.95;Sony PSP;E;2006
+Chromehounds;1;Action,Simulation,Strategy;Sega;71;14.95;X360;T;2006
+Test Drive Unlimited;1;Racing-Driving;Atari;82;17.95;X360;T;2006
+Dragon Ball Z: Budokai Tenkaichi 2;2;Action;Atari;72;14.95;Nintendo Wii;E;2006
+Dragon Quest Monsters: Joker;1;Role-Playing;SquareEnix;75;14.95;Nintendo DS;T;2006
+NFL Street 3;1;Action,Sports;EA;68;14.95;Sony PSP;T;2006
+Syphon Filter: Dark Mirror;1;Action;Sony;87;12.95;Sony PSP;M;2006
+NBA 07;4;Sports;Sony;63;6.95;PlayStation 3;T;2006
+Ridge Racer 7;2;Racing-Driving;Namco,Sony;78;19.95;PlayStation 3;E;2006
+The Outfit;2;Action;THQ;70;14.95;X360;E;2006
+Elebits;4;Action;Konami;75;14.95;Nintendo Wii;T;2006
+Tony Hawk's Downhill Jam;1;Racing-Driving,Sports;Activision;76;14.95;Nintendo DS;T;2006
+The Sims 2: Pets;1;Simulation;EA;57;17.95;Sony PSP;T;2006
+Tiger Woods PGA Tour 07;1;Sports;EA;78;12.95;Sony PSP;E;2006
+Thrillville;1;Simulation,Strategy;Atari;72;14.95;Sony PSP;E;2006
+The Godfather: The Game;1;Action;EA;77;17.95;X360;T;2006
+Rampage: Total Destruction;4;Action;Midway;46;16.95;Nintendo Wii;E;2006
+College Hoops 2K7;4;Sports;2K;82;6.95;X360;T;2006
+Far Cry: Instincts - Predator;4;Action;Ubisoft;78;17.95;X360;E;2006
+Full Auto;2;Action,Racing-Driving;Sega;70;16.95;X360;E;2006
+Need for Speed: Carbon - Own the City;1;Action,Racing-Driving;EA;70;14.95;Nintendo DS;T;2006
+Brothers in Arms: D-Day;1;Action;Ubisoft;65;6.95;Sony PSP;T;2006
+Family Guy Video Game!;1;Action;2K;51;19.95;Sony PSP;M;2006
+Superman Returns;1;Action;EA;51;7.95;X360;E;2006
+Over G Fighters;2;Simulation;Ubisoft;49;17.95;X360;E;2006
+Final Fantasy XI Online;1;Action,Role-Playing;SquareEnix;66;4.95;X360;E;2006
+Mystery Dungeon: Shiren the Wanderer;1;Action,Role-Playing;Sega;69;17.95;Nintendo DS;T;2006
+Phoenix Wright: Ace Attorney - Justice for All;1;Adventure,Simulation;Capcom;76;13.95;Nintendo DS;E;2006
+Genji: Days of the Blade;1;Action,Role-Playing;Sony;55;14.95;PlayStation 3;T;2006
+Top Spin 2;4;Sports;2K;75;12.95;X360;T;2006
+Field Commander;2;Strategy;Sony,Ubisoft;77;14.95;Sony PSP;T;2006
+Children of Mana;1;Action,Role-Playing;Nintendo,SquareEnix;65;16.95;Nintendo DS;E;2006
+Valkyrie Profile: Lenneth;1;Role-Playing;SquareEnix;80;22.95;Sony PSP;E;2006
+Monster House;1;Action;THQ;62;14.95;Nintendo DS;M;2006
+Enchanted Arms;1;Role-Playing;Ubisoft;69;17.95;X360;E;2006
+NHL 07;4;Sports;EA;76;12.95;Sony PSP;M;2006
+Full Auto 2: Battlelines;2;Action,Racing-Driving;Sega;67;14.95;PlayStation 3;T;2006
+Blitz: The League;2;Sports;Midway;69;14.95;X360;T;2006
+Star Trek Legacy;2;Action,Strategy;Ubisoft;64;24.95;X360;E;2006
+Master of Illusion;1;Strategy;Nintendo;69;14.95;Nintendo DS;E;2006
+Mega Man ZX;1;Action;Capcom;76;19.95;Nintendo DS;T;2006
+Untold Legends: The Warrior's Code;1;Action,Role-Playing;Sony,Ubisoft;65;14.95;Sony PSP;T;2006
+X-Men: The Official Game;1;Action;Activision;52;14.95;X360;M;2006
+Untold Legends: Dark Kingdom;2;Action,Role-Playing;EA,Sony;58;16.95;PlayStation 3;E;2006
+Happy Feet;2;Action;Midway;46;14.95;Nintendo Wii;E;2006
+Open Season;1;Action;Ubisoft;72;17.95;Nintendo DS;T;2006
+Dungeon Siege: Throne of Agony;1;Role-Playing;2K;74;24.95;Sony PSP;E;2006
+LocoRoco;1;Action,Strategy;Sony;83;17.95;Sony PSP;T;2006
+Fuzion Frenzy 2;4;Action,Sports;Microsoft;49;14.95;X360;T;2006
+MotoGP '06;4;Racing-Driving,Simulation,Sports;THQ;80;14.95;X360;M;2006
+Major League Baseball 2K6;1;Sports;2K;69;4.95;Sony PSP;M;2006
+Star Wars: Lethal Alliance;1;Action;Ubisoft;61;17.95;Sony PSP;T;2006
+Worms: Open Warfare;1;Action,Strategy;THQ;70;17.95;Sony PSP;T;2006
+Open Season;4;Action;Ubisoft;59;14.95;X360;E;2006
+Tom Clancy's Splinter Cell: Double Agent;2;Action;Ubisoft;61;17.95;Nintendo Wii;T;2006
+Avatar: The Last Airbender;1;Action;THQ;57;17.95;Sony PSP;E;2006
+Lemmings;1;Strategy;Sony;76;17.95;Sony PSP;E;2006
+Mega Man Powered Up;1;Action;Capcom;82;16.95;Sony PSP;E;2006
+College Hoops 2K6;1;Sports;2K;70;6.95;X360;E;2006
+Magical Starsign;1;Role-Playing;Nintendo;69;9.95;Nintendo DS;E;2006
+Resident Evil: Deadly Silence;1;Action;Capcom;71;17.95;Nintendo DS;E;2006
+X-Men: The Official Game;1;Action;Activision;50;14.95;Nintendo DS;E;2006
+Cabela's African Safari;1;Sports;Activision;53;17.95;X360;E;2006
+Cabela's Alaskan Adventures;1;Sports;Activision;48;17.95;X360;E;2006
+Armored Core 4;2;Action;Sega;65;19.95;PlayStation 3;E;2006
+LostMagic;1;Action,Role-Playing;Ubisoft;68;14.95;Nintendo DS;T;2006
+Magnetica;1;Action,Strategy;Nintendo;68;17.95;Nintendo DS;T;2006
+Def Jam Fight for NY: The Takeover;1;Action;EA;79;17.95;Sony PSP;T;2006
+NASCAR 07;1;Racing-Driving,Simulation;EA;66;24.95;Sony PSP;T;2006
+The Ant Bully;1;Action;Midway;45;16.95;Nintendo Wii;T;2006
+Just Cause;1;Action,Racing-Driving;Eidos;73;16.95;X360;E;2006
+Phantasy Star Universe;1;Role-Playing;Sega;64;24.95;X360;E;2006
+Project Sylpheed: Arc of Deception;1;Action;Microsoft,SquareEnix;64;14.95;X360;T;2006
+Winning Eleven: Pro Evolution Soccer 2007;6;Sports;Konami;80;11.95;X360;E;2006
+Kororinpa: Marble Mania;2;Action,Strategy;Nintendo;69;17.95;Nintendo Wii;T;2006
+Digimon World DS;1;Role-Playing;Namco;49;27.95;Nintendo DS;E;2006
+Power Stone Collection;1;Action;Capcom;74;14.95;Sony PSP;M;2006
+EA Replay;4;Action,Role-Playing,Simulation,Sports,Strategy;EA;56;14.95;Sony PSP;E;2006
+Open Season;4;Action;Ubisoft;49;17.95;Nintendo Wii;M;2006
+Far Cry: Vengeance;2;Action;Ubisoft;38;16.95;Nintendo Wii;E;2006
+Import Tuner Challenge;2;Racing-Driving;Ubisoft;54;17.95;X360;E;2006
+FIFA Street 2;1;Sports;EA;58;17.95;Sony PSP;T;2006
+007: From Russia with Love;1;Action,Racing-Driving;EA;61;17.95;Sony PSP;T;2006
+PaRappa the Rapper;1;Action;Sony;67;12.95;Sony PSP;T;2006
+Viewtiful Joe: Red Hot Rumble;1;Action;Capcom;63;14.95;Sony PSP;E;2006
+Rumble Roses XX;4;Action,Sports;Konami;62;17.95;X360;E;2006
+Bionicle Heroes;1;Action;Eidos;72;16.95;Nintendo DS;T;2006
+Ultimate Ghosts 'N' Goblins;1;Action;Capcom;72;17.95;Sony PSP;E;2006
+Xiaolin Showdown;1;Action;Konami;44;14.95;Sony PSP;M;2006
+Bionicle Heroes;1;Action;Eidos;59;14.95;X360;T;2006
+Bullet Witch;1;Action;Atari;55;16.95;X360;M;2006
+Death Jr. II: Root of Evil;2;Action;Konami;68;14.95;Sony PSP;E;2006
+Alex Rider: Stormbreaker;1;Action,Adventure;THQ;48;12.95;Nintendo DS;M;2006
+Gunpey DS;1;Strategy;Namco;70;12.95;Nintendo DS;E;2006
+Lara Croft Tomb Raider: Legend;1;Action,Racing-Driving;Eidos;58;17.95;Nintendo DS;E;2006
+Worms: Open Warfare;1;Action,Strategy;THQ;64;17.95;Nintendo DS;E;2006
+MTX Mototrax;1;Racing-Driving,Sports;Activision;67;19.95;Sony PSP;M;2006
+Snoopy vs. the Red Baron;1;Action;Namco;76;17.95;Sony PSP;E;2006
+Super Monkey Ball Adventure;1;Action,Racing-Driving;Sega;56;24.95;Sony PSP;E;2006
+Ys VI: The Ark of Napishtim;1;Action,Role-Playing;Konami;64;16.95;Sony PSP;E;2006
+Point Blank DS;1;Action;Atari,Namco;66;17.95;Nintendo DS;M;2006
+Star Trek: Tactical Assault;1;Action,Strategy;Ubisoft;63;17.95;Nintendo DS;T;2006
+Tao's Adventure: Curse of the Demon Seal;1;Role-Playing;Konami;50;14.95;Nintendo DS;E;2006
+Ford Bold Moves Street Racing;1;Racing-Driving;Eidos;52;17.95;Sony PSP;T;2006
+Gradius Collection;1;Action;Konami;76;17.95;Sony PSP;T;2006
+The Legend of Heroes II: Prophecy of the Moonli...;1;Role-Playing;Namco;63;17.95;Sony PSP;E;2006
+Pac-Man World Rally;1;Action,Racing-Driving;Namco;51;17.95;Sony PSP;T;2006
+Bomberman: Act Zero;1;Action;Konami;34;12.95;X360;E;2006
+WarTech: Senko no Ronde;2;Action;Ubisoft;60;12.95;X360;T;2006
+Astonishia Story;1;Role-Playing,Strategy;Ubisoft;48;16.95;Sony PSP;T;2006
+B-Boy;1;Action;Sony;50;17.95;Sony PSP;E;2006
+BattleZone;1;Action;Atari;57;14.95;Sony PSP;E;2006
+Bounty Hounds;1;Action,Strategy;Namco;63;17.95;Sony PSP;T;2006
+MotoGP;1;Racing-Driving,Sports;Sony;69;32.95;Sony PSP;E;2006
+OutRun 2006: Coast 2 Coast;1;Racing-Driving;Sega;82;17.95;Sony PSP;E;2006
+Warhammer: Battle for Atluma;1;Strategy;Namco;55;17.95;Sony PSP;M;2006
+Tenchu: Dark Secret;1;Action;Nintendo;37;14.95;Nintendo DS;E;2006
+Metal Gear Solid: Digital Graphic Novel;1;Adventure;Konami;78;17.95;Sony PSP;T;2006
+Star Trek: Tactical Assault;1;Action,Strategy;Ubisoft;64;17.95;Sony PSP;E;2006
+Custom Robo Arena;1;Action,Role-Playing;Nintendo;74;17.95;Nintendo DS;T;2006
+Spider-Man 3;1;Action;Ubisoft;58;6.95;Sony PSP;M;2006
+Wii Fit;1;Educational,Sports;Nintendo;80;24.95;Nintendo Wii;T;2007
+Halo 3;4;Action;Microsoft;94;24.95;X360;E;2007
+Call of Duty 4: Modern Warfare;4;Action;Activision;94;29.95;X360;E;2007
+Super Mario Galaxy;2;Action;Nintendo;97;39.95;Nintendo Wii;E;2007
+Mario Party DS;1;Action,Strategy;Nintendo;72;27.95;Nintendo DS;T;2007
+Mario Party 8;4;Action,Strategy;Nintendo;62;39.95;Nintendo Wii;T;2007
+Guitar Hero III: Legends of Rock;2;Action,Simulation;Activision;85;12.95;X360;T;2007
+Link's Crossbow Training;1;Action;Nintendo;68;14.95;Nintendo Wii;E;2007
+Guitar Hero III: Legends of Rock;2;Action,Simulation;Activision;86;49.95;Nintendo Wii;T;2007
+Assassin's Creed;1;Action;Ubisoft;81;16.95;X360;T;2007
+Call of Duty 4: Modern Warfare;4;Action;Activision;94;24.95;PlayStation 3;E;2007
+Mario & Sonic at the Olympic Games;4;Action,Sports;Nintendo,Sega;67;29.95;Nintendo Wii;E;2007
+Forza Motorsport 2;2;Racing-Driving;Microsoft;90;12.95;X360;T;2007
+Madden NFL 08;4;Sports;EA;85;9.95;X360;E;2007
+Guitar Hero II;2;Action,Simulation;Activision;92;17.95;X360;T;2007
+The Legend of Zelda: Phantom Hourglass;1;Action;Nintendo;90;24.95;Nintendo DS;E;2007
+Pokmon Mystery Dungeon: Explorers of Darkness;1;Role-Playing;Nintendo;59;15.95;Nintendo DS;E;2007
+Pokmon Mystery Dungeon: Explorers of Time;1;Role-Playing;Nintendo;59;24.95;Nintendo DS;T;2007
+Assassin's Creed;1;Action;Ubisoft;81;17.95;PlayStation 3;T;2007
+Uncharted: Drake's Fortune;1;Action;Sony;88;24.95;PlayStation 3;T;2007
+Mass Effect;1;Action,Role-Playing;Microsoft;91;17.95;X360;T;2007
+BioShock;1;Action;2K;96;16.95;X360;T;2007
+Super Paper Mario;1;Action,Role-Playing;Nintendo;85;29.95;Nintendo Wii;E;2007
+Game Party;4;Action;Midway;25;14.95;Nintendo Wii;T;2007
+Ratchet & Clank: Size Matters;1;Action;Sony;85;14.95;Sony PSP;E;2007
+Dance Dance Revolution Hottest Party;4;Action;Konami;73;17.95;Nintendo Wii;T;2007
+Gran Turismo 5: Prologue;2;Racing-Driving,Simulation;Sony;80;24.95;PlayStation 3;E;2007
+Professor Layton and the Curious Village;1;Adventure,Educational,Strategy;Nintendo;85;23.95;Nintendo DS;E;2007
+Resident Evil 4;1;Action;Capcom;91;16.95;Nintendo Wii;T;2007
+The Elder Scrolls IV: Oblivion;1;Action,Role-Playing;Ubisoft;93;17.95;PlayStation 3;T;2007
+Transformers: Autobots;1;Action,Racing-Driving;Activision;67;17.95;Nintendo DS;E;2007
+Transformers: Decepticons;1;Action,Racing-Driving;Activision;66;17.95;Nintendo DS;M;2007
+Diddy Kong Racing DS;1;Racing-Driving,Sports;Nintendo;63;24.95;Nintendo DS;T;2007
+Big Brain Academy: Wii Degree;8;Action;Nintendo;68;19.95;Nintendo Wii;M;2007
+Need for Speed: ProStreet;2;Racing-Driving;EA;72;16.95;X360;T;2007
+Sonic and the Secret Rings;4;Action;Sega;69;16.95;Nintendo Wii;E;2007
+Crackdown;1;Action,Racing-Driving,Role-Playing;Microsoft;83;14.95;X360;M;2007
+Tiger Woods PGA Tour 08;4;Sports;EA;72;17.95;Nintendo Wii;T;2007
+WWE Smackdown vs. Raw 2008;4;Sports;THQ;71;12.95;X360;T;2007
+Madden NFL 08;4;Sports;EA;81;9.95;PlayStation 3;T;2007
+Call of Duty 4: Modern Warfare;1;Action;Activision;75;19.95;Nintendo DS;T;2007
+MySims;1;Simulation,Strategy;EA;68;17.95;Nintendo Wii;T;2007
+Mario Strikers Charged;4;Action,Sports;Nintendo;79;29.95;Nintendo Wii;E;2007
+Flash Focus: Vision Training in Minutes a Day;1;Action;Nintendo;59;17.95;Nintendo DS;T;2007
+Metroid Prime 3: Corruption;1;Action;Nintendo;90;19.95;Nintendo Wii;T;2007
+Tom Clancy's Ghost Recon: Advanced Warfighter 2...;1;Action;Ubisoft;86;14.95;X360;T;2007
+Madden NFL 08;4;Sports;EA;76;12.95;Nintendo Wii;M;2007
+Ratchet & Clank Future: Tools of Destruction;1;Action;Sony;89;22.95;PlayStation 3;E;2007
+Rayman Raving Rabbids 2;4;Action;Ubisoft;67;17.95;Nintendo Wii;T;2007
+NBA 2K8;1;Sports;2K;81;9.95;X360;M;2007
+Namco Museum DS;1;Action;Namco;67;17.95;Nintendo DS;E;2007
+Need for Speed: ProStreet;2;Racing-Driving;EA;73;16.95;PlayStation 3;T;2007
+Blazing Angels: Squadrons of WWII;2;Action;Ubisoft;57;16.95;Nintendo Wii;E;2007
+Drawn to Life;1;Action;THQ;73;17.95;Nintendo DS;T;2007
+EA Playground;4;Action,Racing-Driving,Sports;EA;66;17.95;Nintendo Wii;T;2007
+Major League Baseball 2K7;2;Sports;2K;79;9.95;X360;E;2007
+Resident Evil: The Umbrella Chronicles;2;Action;Capcom,Nintendo;75;19.95;Nintendo Wii;T;2007
+NCAA Football 08;2;Sports;EA;81;9.95;X360;E;2007
+The Sims 2: Castaway;1;Simulation;EA;66;16.95;Nintendo DS;M;2007
+WWE Smackdown vs. Raw 2008;6;Sports;THQ;74;14.95;PlayStation 3;E;2007
+Madden NFL 08;1;Sports;EA;75;9.95;Sony PSP;E;2007
+NBA Live 08;4;Sports;EA;73;9.95;PlayStation 3;M;2007
+The Simpsons Game;1;Action;EA;69;17.95;Nintendo DS;M;2007
+Ace Combat 6: Fires of Liberation;1;Action,Simulation;Namco;80;19.95;X360;E;2007
+Heavenly Sword;1;Action;Sony;79;24.95;PlayStation 3;E;2007
+The Simpsons Game;2;Action;EA;71;17.95;X360;T;2007
+Sonic Rush Adventure;1;Action,Sports;Sega;78;24.95;Nintendo DS;T;2007
+Tiger Woods PGA Tour 08;4;Sports;EA;80;14.95;X360;T;2007
+Tony Hawk's Proving Ground;2;Sports;Activision;72;16.95;X360;T;2007
+Call of Duty: Roads to Victory;1;Action;Activision;64;24.95;Sony PSP;E;2007
+Transformers: The Game;1;Action;Activision;52;14.95;X360;M;2007
+NBA 2K8;7;Sports;2K;81;9.95;PlayStation 3;M;2007
+Medal of Honor: Heroes 2;1;Action;EA;69;17.95;Sony PSP;E;2007
+Spider-Man 3;1;Action;Activision;63;11.95;X360;E;2007
+Tom Clancy's Rainbow Six: Vegas;2;Action;Ubisoft;86;16.95;PlayStation 3;E;2007
+Need for Speed: ProStreet;2;Racing-Driving;EA;61;16.95;Nintendo Wii;M;2007
+NBA LIVE 08;1;Sports;EA;73;9.95;X360;T;2007
+Dance Dance Revolution Universe 2;4;Action;Konami;65;19.95;X360;T;2007
+MX vs. ATV Untamed;2;Racing-Driving;THQ;70;17.95;X360;T;2007
+Final Fantasy IV;1;Role-Playing;SquareEnix;85;17.95;Nintendo DS;T;2007
+NBA Street Homecourt;4;Sports;EA;80;7.95;X360;T;2007
+The Simpsons Game;2;Action;EA;64;17.95;Nintendo Wii;T;2007
+WWE Smackdown vs. Raw 2008;4;Sports;THQ;68;16.95;Sony PSP;E;2007
+Tiger Woods PGA Tour 07;4;Sports;EA;71;17.95;Nintendo Wii;T;2007
+Sonic Rivals 2;1;Action;Sega;60;22.95;Sony PSP;M;2007
+Boogie;2;Action;EA;57;17.95;Nintendo Wii;T;2007
+Medal of Honor: Airborne;2;Action;EA;73;17.95;X360;E;2007
+The Sims 2: Castaway;1;Simulation;EA;73;17.95;Nintendo Wii;T;2007
+Spider-Man 3;1;Action;Activision;53;14.95;Nintendo Wii;T;2007
+Lost Odyssey;1;Role-Playing;Microsoft;78;19.95;X360;T;2007
+Bee Movie Game;1;Adventure;Activision;58;17.95;Nintendo DS;E;2007
+Spider-Man 3;1;Action;Activision;79;16.95;Nintendo DS;M;2007
+Final Fantasy Tactics;1;Role-Playing,Strategy;SquareEnix;88;17.95;Sony PSP;M;2007
+Endless Ocean;1;Simulation;Nintendo;72;24.95;Nintendo Wii;E;2007
+SingStar;6;Simulation;Sony;82;14.95;PlayStation 3;E;2007
+Ratatouille;1;Action;THQ;62;19.95;Nintendo Wii;T;2007
+The Sims 2: Pets;1;Simulation;EA;65;22.95;Nintendo Wii;T;2007
+Sonic the Hedgehog;2;Action;Sega;46;14.95;X360;T;2007
+Mega Man Star Force: Dragon;1;Action,Role-Playing;Capcom;60;27.95;Nintendo DS;T;2007
+Sonic the Hedgehog;2;Action;Sega;43;16.95;PlayStation 3;M;2007
+Harry Potter and the Order of the Phoenix;1;Action;EA;69;24.95;Nintendo Wii;T;2007
+Nicktoons: Attack of the Toybots;1;Action;THQ;60;14.95;Nintendo Wii;T;2007
+WWE Smackdown vs. Raw 2008;4;Sports;THQ;59;12.95;Nintendo Wii;M;2007
+The Simpsons Game;2;Action;EA;71;17.95;PlayStation 3;E;2007
+Kane & Lynch: Dead Men;2;Action;Eidos;65;14.95;X360;E;2007
+Jam Sessions;1;Educational,Simulation;Ubisoft;72;8.95;Nintendo DS;T;2007
+Monster Hunter Freedom 2;1;Action,Strategy;Capcom;72;12.95;Sony PSP;T;2007
+Shadowrun;1;Action;Microsoft;66;12.95;X360;E;2007
+Tony Hawk's Proving Ground;2;Sports;Activision;73;12.95;PlayStation 3;E;2007
+My Word Coach;1;Educational;Ubisoft;71;15.95;Nintendo DS;T;2007
+The World Ends With You;1;Action,Adventure,Role-Playing;SquareEnix;88;17.95;Nintendo DS;M;2007
+The BIGS;4;Action,Simulation,Sports;2K;66;17.95;Nintendo Wii;M;2007
+NCAA Football 08;2;Sports;EA;77;9.95;PlayStation 3;T;2007
+Final Fantasy Tactics A2: Grimoire of the Rift;1;Role-Playing,Strategy;SquareEnix;80;17.95;Nintendo DS;E;2007
+Beowulf: The Game;1;Action;Ubisoft;51;12.95;X360;E;2007
+The Darkness;1;Action;2K;82;14.95;X360;M;2007
+Tom Clancy's Ghost Recon: Advanced Warfighter 2...;4;Action;Ubisoft;84;17.95;PlayStation 3;T;2007
+Final Fantasy;1;Role-Playing;SquareEnix;67;17.95;Sony PSP;T;2007
+Lair;1;Action;Sony;53;19.95;PlayStation 3;E;2007
+Transformers: The Game;1;Action;Activision;53;17.95;Nintendo Wii;T;2007
+Command & Conquer 3: Tiberium Wars;1;Strategy;EA;82;24.95;X360;T;2007
+Medal of Honor: Heroes 2;1;Action;EA;73;19.95;Nintendo Wii;E;2007
+MX vs. ATV Untamed;2;Racing-Driving;THQ;67;17.95;PlayStation 3;T;2007
+Time Crisis 4;2;Action;Namco;60;24.95;PlayStation 3;M;2007
+Dragon Ball Z: Budokai Tenkaichi 3;2;Action;Atari;72;17.95;Nintendo Wii;E;2007
+Final Fantasy XII: Revenant Wings;1;Role-Playing,Strategy;SquareEnix;81;19.95;Nintendo DS;T;2007
+SOCOM: U.S. Navy SEALs - Tactical Strike;1;Action,Strategy;Sony;72;14.95;Sony PSP;M;2007
+Unreal Tournament III;1;Action;Midway;86;16.95;PlayStation 3;M;2007
+Bee Movie Game;2;Action;Activision;62;14.95;Nintendo Wii;E;2007
+Def Jam: Icon;2;Action;EA;69;17.95;X360;M;2007
+Transformers: The Game;1;Action;Activision;54;17.95;PlayStation 3;E;2007
+SSX Blur;4;Sports;EA;74;17.95;Nintendo Wii;E;2007
+Bleach: The Blade of Fate;1;Action;Sega;83;17.95;Nintendo DS;E;2007
+EA Playground;1;Racing-Driving,Sports;EA;60;11.95;Nintendo DS;E;2007
+Final Fantasy II;1;Role-Playing;SquareEnix;63;17.95;Sony PSP;E;2007
+The Eye of Judgment;2;Strategy;Sony;75;12.95;PlayStation 3;E;2007
+MLB 07: The Show;2;Sports;Sony;77;9.95;PlayStation 3;T;2007
+Virtua Fighter 5;2;Action;Sega;85;14.95;PlayStation 3;M;2007
+NiGHTS: Journey of Dreams;2;Action;Sega;69;14.95;Nintendo Wii;M;2007
+NBA Live 08;1;Sports;EA;73;14.95;Sony PSP;E;2007
+Kane & Lynch: Dead Men;2;Action;Eidos;64;19.95;PlayStation 3;E;2007
+Harry Potter and the Order of the Phoenix;1;Action;EA;51;17.95;Nintendo DS;E;2007
+SimCity DS;1;Simulation;EA;69;14.95;Nintendo DS;T;2007
+Wario: Master of Disguise;1;Action;Nintendo;60;14.95;Nintendo DS;E;2007
+No More Heroes;1;Action,Racing-Driving;Ubisoft;83;17.95;Nintendo Wii;M;2007
+BlackSite: Area 51;1;Action;Midway;62;17.95;X360;E;2007
+Shrek the Third;2;Action;Activision;56;14.95;X360;E;2007
+Shrek the Third;1;Adventure;Activision;70;16.95;Nintendo DS;T;2007
+Surf's Up;1;Racing-Driving,Sports;Ubisoft;56;14.95;Nintendo DS;T;2007
+MLB 07: The Show;1;Sports;Sony;82;9.95;Sony PSP;E;2007
+TMNT;1;Action;Ubisoft;58;19.95;X360;E;2007
+Spider-Man: Friend or Foe;2;Action;Activision;60;17.95;X360;E;2007
+Contra 4;1;Action;Konami;83;17.95;Nintendo DS;T;2007
+Phoenix Wright: Ace Attorney - Trials and Tribu...;1;Adventure,Simulation;Capcom;81;17.95;Nintendo DS;T;2007
+Disney Pirates of the Caribbean: At World's End;1;Action;Disney;66;14.95;Nintendo DS;T;2007
+Dragon Ball Z: Shin Budokai - Another Road;1;Action;Atari,Namco;65;16.95;Sony PSP;E;2007
+Spider-Man 3;1;Action;Activision;60;17.95;PlayStation 3;E;2007
+The Golden Compass;1;Action;Sega;41;9.95;X360;M;2007
+Stuntman: Ignition;4;Action,Racing-Driving;THQ;75;14.95;X360;T;2007
+Shrek the Third;2;Action;Activision;57;16.95;Nintendo Wii;E;2007
+DK: Jungle Climber;1;Action,Strategy;Nintendo;77;24.95;Nintendo DS;T;2007
+Dragon Quest IV: Chapters of the Chosen;1;Role-Playing;SquareEnix;80;24.95;Nintendo DS;T;2007
+300: March to Glory;1;Action;Eidos;55;14.95;Sony PSP;E;2007
+Fire Emblem: Radiant Dawn;1;Role-Playing,Strategy;Nintendo;78;34.95;Nintendo Wii;T;2007
+The Golden Compass;1;Action;Sega;35;14.95;Nintendo Wii;E;2007
+Manhunt 2;1;Action;Rockstar;62;19.95;Nintendo Wii;E;2007
+NASCAR 08;1;Racing-Driving,Sports;EA;59;12.95;X360;E;2007
+Virtua Tennis 3;4;Sports;Sega;80;19.95;PlayStation 3;E;2007
+All-Pro Football 2K8;4;Sports;2K;75;7.95;X360;T;2007
+Major League Baseball 2K7;2;Sports;2K;74;7.95;PlayStation 3;M;2007
+The Warriors;1;Action;Rockstar;52;17.95;Sony PSP;T;2007
+Ghost Rider;4;Action;2K;49;16.95;Sony PSP;T;2007
+Tony Hawk's Proving Ground;2;Sports;Activision;57;16.95;Nintendo Wii;E;2007
+Juiced 2: Hot Import Nights;2;Racing-Driving;THQ;68;14.95;X360;E;2007
+Juiced 2: Hot Import Nights;1;Racing-Driving;THQ;72;13.95;Nintendo DS;T;2007
+The Simpsons Game;1;Action;EA;59;16.95;Sony PSP;M;2007
+Syphon Filter: Logan's Shadow;1;Action,Strategy;Sony;85;16.95;Sony PSP;T;2007
+Tiger Woods PGA Tour 08;4;Sports;EA;79;12.95;PlayStation 3;T;2007
+Ratatouille;4;Action;THQ;56;16.95;X360;T;2007
+Trauma Center: New Blood;2;Action,Simulation;Nintendo;77;17.95;Nintendo Wii;E;2007
+Hotel Dusk: Room 215;1;Adventure;Nintendo;78;14.95;Nintendo DS;E;2007
+Mega Man ZX Advent;1;Action;Capcom;78;17.95;Nintendo DS;T;2007
+Silent Hill: 0rigins;1;Action;Konami;78;17.95;Sony PSP;E;2007
+Harry Potter and the Order of the Phoenix;1;Action;EA;68;16.95;X360;M;2007
+NHL 08;1;Sports;EA;85;9.95;X360;E;2007
+Castlevania: The Dracula X Chronicles;2;Action;Konami;80;16.95;Sony PSP;E;2007
+Tony Hawk's Proving Ground;1;Sports;Activision;39;13.95;Nintendo DS;M;2007
+Jeanne d'Arc;1;Role-Playing,Strategy;Sony;87;19.95;Sony PSP;T;2007
+BWii: Battalion Wars 2;1;Action,Simulation,Strategy;Nintendo;75;14.95;Nintendo Wii;T;2007
+Battlestations: Midway;1;Action,Strategy;Eidos;73;17.95;X360;T;2007
+Dragon Ball Z: Harukanaru Densetsu;1;Strategy;Atari;57;14.95;Nintendo DS;T;2007
+The Darkness;1;Action;2K;80;14.95;PlayStation 3;E;2007
+Donkey Kong Barrel Blast;4;Racing-Driving;Nintendo;46;29.95;Nintendo Wii;T;2007
+The BIGS;4;Action,Simulation,Sports;2K;79;12.95;X360;M;2007
+Armored Core 4;2;Action;Sega;65;17.95;X360;E;2007
+Etrian Odyssey;1;Role-Playing;Nintendo;75;24.95;Nintendo DS;E;2007
+Tom Clancy's Splinter Cell: Double Agent;1;Action,Strategy;Ubisoft;78;22.95;PlayStation 3;M;2007
+Zack & Wiki: Quest for Barbaros' Treasure;1;Adventure;Capcom;87;17.95;Nintendo Wii;E;2007
+Monster Jam;4;Sports;Activision;43;17.95;X360;M;2007
+Virtua Fighter 5;2;Action;Sega;89;17.95;X360;E;2007
+Lunar Knights;1;Action;Konami;82;16.95;Nintendo DS;T;2007
+Enchanted Arms;1;Role-Playing;Ubisoft;64;17.95;PlayStation 3;E;2007
+Folklore;1;Action,Role-Playing;Sony;75;24.95;PlayStation 3;E;2007
+Juiced 2: Hot Import Nights;1;Racing-Driving;THQ;71;17.95;PlayStation 3;T;2007
+NHL 08;7;Sports;EA;86;9.95;PlayStation 3;T;2007
+NCAA 07 March Madness;4;Sports;EA;67;7.95;X360;E;2007
+Rayman Raving Rabbids;4;Action;Ubisoft;67;16.95;X360;M;2007
+Viva Pi$?ata: Party Animals;4;Racing-Driving;Microsoft;56;14.95;X360;T;2007
+Picross DS;1;Strategy;Nintendo;83;17.95;Nintendo DS;E;2007
+Harry Potter and the Order of the Phoenix;1;Action;EA;67;17.95;PlayStation 3;E;2007
+College Hoops 2K7;6;Sports;2K;81;6.95;PlayStation 3;E;2007
+The BIGS;4;Action,Simulation,Sports;2K;80;22.95;PlayStation 3;T;2007
+Stuntman: Ignition;4;Action,Racing-Driving;THQ;76;16.95;PlayStation 3;E;2007
+Mortal Kombat: Armageddon;4;Action,Racing-Driving;Midway;71;24.95;Nintendo Wii;E;2007
+Def Jam: Icon;2;Action;EA;68;16.95;PlayStation 3;E;2007
+Soulcalibur Legends;2;Action;Namco;52;16.95;Nintendo Wii;E;2007
+Surf's Up;2;Sports;Ubisoft;64;16.95;Nintendo Wii;T;2007
+Planet Puzzle League;1;Strategy;Nintendo;86;17.95;Nintendo DS;E;2007
+TMNT;1;Action;Ubisoft;60;17.95;Nintendo Wii;E;2007
+Soldier of Fortune: Payback;1;Action;Activision;50;13.95;X360;M;2007
+Dynasty Warriors: Gundam;2;Action;Namco;60;22.95;PlayStation 3;E;2007
+Disney Pirates of the Caribbean: At World's End;2;Action;Disney;55;14.95;PlayStation 3;M;2007
+Bee Movie Game;2;Action;Activision;71;12.95;X360;T;2007
+Dynasty Warriors: Gundam;2;Action;Namco;55;22.95;X360;M;2007
+Golden Axe;2;Action;Sega;45;14.95;X360;M;2007
+NASCAR 08;1;Racing-Driving,Sports;EA;57;14.95;PlayStation 3;M;2007
+Dragon Quest Swords: The Masked Queen and the T...;1;Action;SquareEnix;65;16.95;Nintendo Wii;T;2007
+Call of Juarez;1;Action;Ubisoft;71;14.95;X360;E;2007
+College Hoops 2K8;1;Sports;2K;81;9.95;X360;M;2007
+Eternal Sonata;1;Role-Playing;Namco;79;27.95;X360;M;2007
+Kingdom Under Fire: Circle of Doom;1;Action,Role-Playing;Microsoft;55;14.95;X360;E;2007
+Vampire Rain;1;Action;Microsoft;38;11.95;X360;T;2007
+All-Pro Football 2K8;6;Sports;2K;73;9.95;PlayStation 3;T;2007
+Conan;1;Action,Adventure;THQ;69;17.95;PlayStation 3;E;2007
+Godzilla: Unleashed;1;Action;Atari;44;24.95;Nintendo Wii;E;2007
+NBA Live 08;1;Sports;EA;52;14.95;Nintendo Wii;M;2007
+Conan;1;Action,Adventure;THQ;69;14.95;X360;E;2007
+Spider-Man: Friend or Foe;2;Action;Activision;59;17.95;Nintendo Wii;T;2007
+College Hoops 2K8;7;Sports;2K;82;12.95;PlayStation 3;M;2007
+NBA 08;4;Sports;Sony;63;9.95;PlayStation 3;M;2007
+Rayman Raving Rabbids;1;Action;Ubisoft;56;17.95;Nintendo DS;M;2007
+Warhammer 40,000: Squad Command;1;Strategy;THQ;67;17.95;Sony PSP;T;2007
+Beowulf: The Game;1;Action;Ubisoft;51;12.95;PlayStation 3;T;2007
+The Golden Compass;1;Action;Sega;40;12.95;PlayStation 3;M;2007
+Hot Wheels: Beat That!;1;Action,Racing-Driving;Activision;43;19.95;X360;T;2007
+NHL 2K8;1;Sports;2K;71;6.95;X360;T;2007
+NBA Street Homecourt;4;Sports;EA;81;14.95;PlayStation 3;E;2007
+Final Fantasy: Crystal Chronicles - Echoes of Time;1;Action;SquareEnix;75;24.95;Nintendo DS;T;2007
+Godzilla Unleashed: Double Smash;1;Action;Atari;28;17.95;Nintendo DS;T;2007
+MX vs. ATV Untamed;1;Racing-Driving;THQ;61;17.95;Nintendo DS;E;2007
+WWE SmackDown vs. Raw 2008;1;Sports;THQ;61;14.95;Nintendo DS;T;2007
+The BIGS;1;Action,Simulation,Sports;2K;72;16.95;Sony PSP;M;2007
+WipEout Pulse;1;Action,Racing-Driving;Sony;82;16.95;Sony PSP;T;2007
+Beautiful Katamari;1;Action;Namco;73;17.95;X360;M;2007
+Hour of Victory;1;Action;Midway;37;12.95;X360;M;2007
+Fantastic Four: Rise of the Silver Surfer;4;Action;2K;47;14.95;PlayStation 3;M;2007
+SEGA Rally Revo;2;Racing-Driving,Simulation;Sega;77;14.95;X360;E;2007
+Final Fantasy Fables: Chocobo Tales;1;Action;SquareEnix;75;17.95;Nintendo DS;M;2007
+Marvel Trading Card Game;1;Strategy;Konami;61;16.95;Nintendo DS;M;2007
+Crazy Taxi: Fare Wars;1;Action,Racing-Driving;Sega;64;17.95;Sony PSP;E;2007
+The Golden Compass;1;Action;Sega;28;14.95;Sony PSP;E;2007
+Harry Potter and the Order of the Phoenix;1;Action;EA;52;16.95;Sony PSP;E;2007
+Surf's Up;4;Sports;Ubisoft;61;17.95;X360;E;2007
+Blazing Angels 2: Secret Missions of WWII;2;Action;Ubisoft;72;16.95;X360;M;2007
+InuYasha: Secret of the Divine Jewel;1;Role-Playing;Namco;46;24.95;Nintendo DS;T;2007
+The Settlers;1;Strategy;Ubisoft;39;17.95;Nintendo DS;T;2007
+Shrek the Third;1;Action;Activision;57;22.95;Sony PSP;T;2007
+Ratatouille;1;Action;THQ;55;17.95;PlayStation 3;T;2007
+Soldier of Fortune: Payback;1;Action;Activision;50;14.95;PlayStation 3;E;2007
+NCAA March Madness 08;4;Sports;EA;67;12.95;PlayStation 3;E;2007
+Fantastic Four: Rise of the Silver Surfer;4;Action;2K;45;14.95;X360;E;2007
+Pro Evolution Soccer 2008;4;Sports;Konami;76;14.95;X360;M;2007
+Blazing Angels 2: Secret Missions of WWII;2;Action;Ubisoft;70;22.95;PlayStation 3;T;2007
+Brooktown High;1;Simulation;Konami;51;16.95;Sony PSP;T;2007
+Crush;1;Action;Sega;83;16.95;Sony PSP;E;2007
+The Sims 2: Castaway;1;Simulation;EA;64;17.95;Sony PSP;T;2007
+Test Drive Unlimited;1;Racing-Driving;Atari;80;17.95;Sony PSP;M;2007
+Victorious Boxers: Revolution;1;Action,Simulation,Sports;Ubisoft;59;24.95;Nintendo Wii;E;2007
+SEGA Rally Revo;2;Racing-Driving,Simulation;Sega;75;16.95;PlayStation 3;T;2007
+Death Jr. and the Science Fair of Doom;1;Action;Konami;47;12.95;Nintendo DS;M;2007
+Worms: Open Warfare 2;1;Action,Strategy;THQ;81;17.95;Nintendo DS;E;2007
+Alien Syndrome;1;Action;Sega;51;12.95;Sony PSP;E;2007
+BlackSite: Area 51;1;Action;Midway;56;17.95;PlayStation 3;E;2007
+Alien Syndrome;4;Action;Sega;48;12.95;Nintendo Wii;E;2007
+Tetris Evolution;4;Strategy;THQ;52;17.95;X360;T;2007
+Heroes of Mana;1;Strategy;SquareEnix;66;24.95;Nintendo DS;T;2007
+Myst;1;Adventure;Midway;43;24.95;Nintendo DS;E;2007
+Coded Arms: Contagion;1;Action;Konami;56;14.95;Sony PSP;E;2007
+Retro Game Challenge;1;Action,Racing-Driving,Role-Playing;Namco;77;17.95;Nintendo DS;T;2007
+Ultimate Mortal Kombat 3;1;Action;Midway;73;23.95;Nintendo DS;E;2007
+Warhammer 40,000: Squad Command;1;Strategy;THQ;57;17.95;Nintendo DS;T;2007
+Juiced 2: Hot Import Nights;1;Racing-Driving;THQ;73;16.95;Sony PSP;E;2007
+Pursuit Force: Extreme Justice;1;Action,Racing-Driving;Sony;73;14.95;Sony PSP;E;2007
+Medal of Honor: Vanguard;1;Action;EA;56;17.95;Nintendo Wii;T;2007
+World Series of Poker 2008: Battle for the Brac...;1;Simulation;Activision;74;19.95;X360;E;2007
+Pro Evolution Soccer 2008;7;Sports;Konami;74;17.95;PlayStation 3;E;2007
+Worms: Open Warfare 2;4;Action,Strategy;THQ;80;17.95;Sony PSP;T;2007
+Surf's Up;4;Sports;Ubisoft;59;17.95;PlayStation 3;E;2007
+Fantastic Four: Rise of the Silver Surfer;4;Action;2K;39;12.95;Nintendo Wii;E;2007
+Brothers in Arms DS;1;Action;Ubisoft;72;17.95;Nintendo DS;E;2007
+Fantastic Four: Rise of the Silver Surfer;1;Action;2K;35;14.95;Nintendo DS;E;2007
+Zendoku;1;Role-Playing,Strategy;Eidos;68;16.95;Nintendo DS;E;2007
+Manhunt 2;1;Action;Rockstar;69;7.95;Sony PSP;T;2007
+Barnyard;1;Action,Adventure;THQ;65;17.95;Nintendo Wii;T;2007
+Escape from Bug Island;1;Action;Eidos;37;14.95;Nintendo Wii;T;2007
+Cabela's Big Game Hunter;1;Simulation,Sports;Activision;51;19.95;X360;E;2007
+UEFA Champions League 2006-2007;4;Sports;EA;72;6.95;X360;T;2007
+NBA 08;2;Sports;Sony;75;7.95;Sony PSP;E;2007
+Arkanoid DS;1;Strategy;SquareEnix;61;16.95;Nintendo DS;E;2007
+Orcs & Elves;1;Action,Role-Playing;EA;68;14.95;Nintendo DS;T;2007
+Prism: Light the Way;1;Action,Strategy;Eidos;73;16.95;Nintendo DS;T;2007
+Hot Pixel;1;Action;Atari;55;8.95;Sony PSP;T;2007
+The Legend of Heroes III: Song of the Ocean;1;Role-Playing;Namco;58;17.95;Sony PSP;T;2007
+SEGA Rally Revo;1;Racing-Driving,Simulation;Sega;74;16.95;Sony PSP;T;2007
+Bionicle Heroes;1;Action;Eidos;52;17.95;Nintendo Wii;T;2007
+Burnout Dominator;4;Action,Racing-Driving;EA;76;17.95;Sony PSP;T;2007
+Meteos: Disney Magic;1;Strategy;Disney;74;12.95;Nintendo DS;T;2007
+The Fast and the Furious;1;Racing-Driving;Namco;58;22.95;Sony PSP;M;2007
+Virtua Tennis 3;1;Sports;Sega;79;16.95;Sony PSP;M;2007
+Virtua Tennis 3;4;Sports;Sega;80;14.95;X360;T;2007
+Front Mission;1;Strategy;SquareEnix;72;17.95;Nintendo DS;E;2007
+Lost in Blue 2;1;Role-Playing;Konami;58;17.95;Nintendo DS;T;2007
+After Burner: Black Falcon;1;Action;Sega;73;19.95;Sony PSP;M;2007
+Capcom Puzzle World;1;Strategy;Capcom;65;19.95;Sony PSP;M;2007
+Smash Court Tennis 3;1;Sports;Namco;68;19.95;Sony PSP;T;2007
+UEFA Champions League 2006-2007;1;Sports;EA;71;14.95;Sony PSP;T;2007
+Driver: Parallel Lines;1;Action,Racing-Driving;Ubisoft;59;24.95;Nintendo Wii;E;2007
+Mario Kart Wii;4;Racing-Driving;Nintendo;82;29.95;Nintendo Wii;T;2008
+Grand Theft Auto IV;1;Action,Racing-Driving;Rockstar;98;24.95;X360;E;2008
+Super Smash Bros.: Brawl;6;Action;Nintendo;93;39.95;Nintendo Wii;T;2008
+Call of Duty: World at War;4;Action;Activision;84;29.95;X360;E;2008
+Grand Theft Auto IV;1;Action,Racing-Driving;Rockstar;98;24.95;PlayStation 3;E;2008
+Pokmon: Platinum Version;1;Adventure,Role-Playing;Nintendo;83;27.95;Nintendo DS;T;2008
+Metal Gear Solid 4: Guns of the Patriots;1;Action;Konami;94;22.95;PlayStation 3;T;2008
+Fable II;1;Role-Playing;Microsoft;89;17.95;X360;E;2008
+Call of Duty: World at War;4;Action;Activision;85;29.95;PlayStation 3;T;2008
+Guitar Hero: World Tour;4;Action,Simulation;Activision;86;17.95;Nintendo Wii;T;2008
+LittleBigPlanet;4;Action;Sony;95;24.95;PlayStation 3;T;2008
+Madden NFL 09;4;Sports;EA;83;14.95;X360;T;2008
+Guitar Hero: On Tour;1;Action,Simulation;Activision;71;14.95;Nintendo DS;M;2008
+Kung Fu Panda;4;Action;Activision;75;9.95;X360;E;2008
+Sega Superstars Tennis;4;Sports;Sega;67;9.95;X360;E;2008
+Guitar Hero: World Tour;4;Action,Simulation;Activision;85;16.95;X360;T;2008
+Animal Crossing: City Folk;1;Simulation;Nintendo;73;29.95;Nintendo Wii;T;2008
+Mario & Sonic at the Olympic Games;1;Action,Sports;Nintendo,Sega;70;24.95;Nintendo DS;T;2008
+Madden NFL 09;4;Sports;EA;85;14.95;PlayStation 3;E;2008
+Tom Clancy's Rainbow Six: Vegas 2;2;Action;Ubisoft;82;16.95;X360;M;2008
+Kirby Super Star Ultra;1;Action;Nintendo;76;24.95;Nintendo DS;M;2008
+God of War: Chains of Olympus;1;Action;Sony;91;17.95;Sony PSP;T;2008
+Pure;1;Racing-Driving,Sports;Disney;85;12.95;X360;T;2008
+Saints Row 2;1;Action,Racing-Driving;THQ;81;17.95;X360;E;2008
+Call of Duty: World at War;2;Action;Activision;83;29.95;Nintendo Wii;M;2008
+Midnight Club: Los Angeles;1;Racing-Driving;Rockstar;81;22.95;X360;E;2008
+Mortal Kombat vs. DC Universe;2;Action;Midway;76;24.95;PlayStation 3;E;2008
+Army of Two;2;Action;EA;72;16.95;X360;T;2008
+Resistance 2;2;Action;Sony;87;24.95;PlayStation 3;E;2008
+Midnight Club: Los Angeles;1;Racing-Driving;Rockstar;82;22.95;PlayStation 3;M;2008
+Sonic Unleashed;1;Action;Sega;66;17.95;Nintendo Wii;E;2008
+NBA 2K9;1;Sports;2K;84;12.95;X360;E;2008
+Guitar Hero: World Tour;4;Action,Simulation;Activision;84;17.95;PlayStation 3;E;2008
+Guitar Hero: Aerosmith;1;Action,Simulation;Activision;73;14.95;Nintendo Wii;E;2008
+Burnout Paradise;1;Action,Racing-Driving;EA;87;17.95;PlayStation 3;T;2008
+Pokmon Ranger: Shadows of Almia;1;Action,Role-Playing;Nintendo;68;24.95;Nintendo DS;T;2008
+Mortal Kombat vs. DC Universe;2;Action;Midway;72;24.95;X360;M;2008
+Dead Space;1;Action;EA;88;17.95;PlayStation 3;M;2008
+Shaun White Snowboarding: Road Trip;1;Sports;Ubisoft;78;14.95;Nintendo Wii;E;2008
+Guitar Hero: Aerosmith;2;Action,Simulation;Activision;70;9.95;X360;E;2008
+SOCOM: U.S. Navy SEALs - Confrontation;1;Action;Sony;63;16.95;PlayStation 3;E;2008
+SoulCalibur IV;2;Action;Namco;85;19.95;X360;E;2008
+Battlefield: Bad Company;1;Action;EA;83;16.95;X360;E;2008
+Saints Row 2;1;Action,Racing-Driving;THQ;82;17.95;PlayStation 3;M;2008
+Guitar Hero: On Tour - Decades;1;Action,Simulation;Activision;72;17.95;Nintendo DS;T;2008
+Devil May Cry 4;1;Action;Capcom;84;17.95;X360;T;2008
+Mystery Case Files: MillionHeir;1;Adventure;Nintendo;65;17.95;Nintendo DS;T;2008
+Battlefield: Bad Company;1;Action;EA;84;17.95;PlayStation 3;T;2008
+Army of Two;2;Action;EA;74;16.95;PlayStation 3;T;2008
+Rayman Raving Rabbids TV Party;4;Action,Racing-Driving,Sports,Strategy;Ubisoft;73;17.95;Nintendo Wii;T;2008
+The House of the Dead 2 & 3 Return;2;Action;Sega;66;17.95;Nintendo Wii;M;2008
+Far Cry 2;1;Action;Ubisoft;85;19.95;X360;T;2008
+Boom Blox;4;Action,Strategy;EA;85;24.95;Nintendo Wii;T;2008
+Spore Creatures;1;Adventure,Simulation;EA;65;14.95;Nintendo DS;T;2008
+Madden NFL 09;4;Sports;EA;68;14.95;Sony PSP;T;2008
+NCAA Football 09;4;Sports;EA;83;14.95;X360;T;2008
+MLB 08: The Show;2;Sports;Sony;85;12.95;PlayStation 3;E;2008
+Tom Clancy's Rainbow Six: Vegas 2;2;Action;Ubisoft;81;24.95;PlayStation 3;E;2008
+Mercenaries 2: World in Flames;1;Action;EA;72;14.95;X360;E;2008
+Need for Speed: Undercover;1;Racing-Driving;EA;64;17.95;X360;E;2008
+Guitar Hero: Aerosmith;2;Action,Simulation;Activision;70;14.95;PlayStation 3;M;2008
+SoulCalibur IV;2;Action;Namco,Ubisoft;85;22.95;PlayStation 3;E;2008
+Valkyria Chronicles;1;Action,Role-Playing,Strategy;Sega;86;24.95;PlayStation 3;T;2008
+Need for Speed: Undercover;1;Racing-Driving;EA;59;17.95;PlayStation 3;E;2008
+Wario Land: Shake It!;1;Action;Nintendo;78;19.95;Nintendo Wii;T;2008
+NBA 2K9;7;Sports;2K;82;14.95;PlayStation 3;E;2008
+Major League Baseball 2K9;1;Sports;2K;64;14.95;X360;E;2008
+NCAA Football 09;4;Sports;EA;81;14.95;PlayStation 3;E;2008
+Kung Fu Panda;1;Action;Activision;71;17.95;Nintendo DS;E;2008
+Devil May Cry 4;1;Action;Capcom;84;19.95;PlayStation 3;T;2008
+Tom Clancy's EndWar;1;Strategy;Ubisoft;77;16.95;X360;E;2008
+BioShock;1;Action;2K;94;17.95;PlayStation 3;E;2008
+Bully: Scholarship Edition;1;Action,Adventure;Rockstar;80;17.95;X360;T;2008
+Prince of Persia;1;Action;Ubisoft;81;16.95;X360;T;2008
+Kung Fu Panda;4;Action;Activision;70;16.95;Nintendo Wii;E;2008
+Sonic Chronicles: The Dark Brotherhood;1;Action,Role-Playing;Sega;74;17.95;Nintendo DS;E;2008
+Chrono Trigger;2;Role-Playing;SquareEnix;92;17.95;Nintendo DS;T;2008
+Tomb Raider: Underworld;1;Action;Eidos;76;17.95;X360;E;2008
+skate it;4;Action,Sports;EA;70;39.95;Nintendo Wii;T;2008
+The Legendary Starfy;1;Action,Adventure;Nintendo;75;24.95;Nintendo DS;E;2008
+Mirror's Edge;1;Action;EA;79;14.95;X360;T;2008
+Haze;2;Action;Ubisoft;55;12.95;PlayStation 3;T;2008
+Dissidia: Final Fantasy;1;Action,Role-Playing;SquareEnix;79;17.95;Sony PSP;T;2008
+Sid Meier's Civilization: Revolution;1;Strategy;2K;84;24.95;X360;T;2008
+Wall-E;4;Action;THQ;51;17.95;Nintendo Wii;E;2008
+Prince of Persia;1;Action;Ubisoft;85;17.95;PlayStation 3;T;2008
+NHL 09;1;Sports;EA;88;14.95;X360;E;2008
+Brothers in Arms: Hell's Highway;1;Action;Ubisoft;76;17.95;X360;E;2008
+Shaun White Snowboarding;1;Sports;Ubisoft;60;14.95;X360;T;2008
+Iron Man;1;Action;Sega;44;16.95;Sony PSP;E;2008
+De Blob;4;Action;THQ;82;16.95;Nintendo Wii;M;2008
+Sonic Riders: Zero Gravity;4;Racing-Driving;Sega;56;16.95;Nintendo Wii;T;2008
+Rhythm Heaven;1;Action;Nintendo;83;24.95;Nintendo DS;T;2008
+Tomb Raider: Underworld;1;Action;Eidos;75;17.95;PlayStation 3;T;2008
+Advance Wars: Days of Ruin;4;Strategy;Nintendo;86;17.95;Nintendo DS;E;2008
+Far Cry 2;1;Action;Ubisoft;85;19.95;PlayStation 3;T;2008
+Brothers in Arms: Hell's Highway;1;Action;Ubisoft;76;19.95;PlayStation 3;T;2008
+Sonic Unleashed;1;Action,Adventure;Sega;54;17.95;PlayStation 3;T;2008
+Sonic Unleashed;1;Action,Adventure;Sega;60;17.95;X360;E;2008
+Samba de Amigo;2;Action;Sega;68;12.95;Nintendo Wii;T;2008
+Okami;1;Action;Capcom;90;17.95;Nintendo Wii;M;2008
+MotorStorm: Pacific Rift;4;Action,Racing-Driving,Sports;Sony;82;29.95;PlayStation 3;T;2008
+Tiger Woods PGA Tour 09;4;Sports;EA;84;19.95;X360;E;2008
+SimCity Creator;1;Simulation;EA;67;24.95;Nintendo Wii;E;2008
+Tiger Woods PGA Tour 09;4;Sports;EA;82;19.95;PlayStation 3;E;2008
+Sid Meier's Civilization: Revolution;1;Simulation,Strategy;2K;80;17.95;Nintendo DS;M;2008
+Pure;1;Racing-Driving,Sports;Disney;83;17.95;PlayStation 3;M;2008
+Spider-Man: Web of Shadows;1;Action;Activision;68;19.95;X360;E;2008
+Frontlines: Fuel of War;1;Action;THQ;75;14.95;X360;M;2008
+Too Human;1;Action,Role-Playing;Microsoft;65;14.95;X360;T;2008
+SEGA Bass Fishing;1;Sports;Sega;59;17.95;Nintendo Wii;E;2008
+The Chronicles of Narnia: Prince Caspian;2;Action,Role-Playing;Disney;63;16.95;Nintendo Wii;M;2008
+Iron Man;1;Action;Sega;56;14.95;Nintendo DS;M;2008
+The Sims 2: Apartment Pets;1;Simulation;EA;50;17.95;Nintendo DS;M;2008
+MLB 08: The Show;1;Sports;Sony;83;14.95;Sony PSP;M;2008
+Iron Man;1;Action;Sega;42;17.95;PlayStation 3;T;2008
+Madagascar: Escape 2 Africa;1;Action,Adventure;Activision;55;17.95;Nintendo DS;T;2008
+NHL 09;1;Sports;EA;88;19.95;PlayStation 3;M;2008
+Banjo-Kazooie: Nuts & Bolts;1;Action,Adventure,Racing-Driving,Sports;Microsoft;79;17.95;X360;E;2008
+Hot Shots Golf: Out of Bounds;4;Sports;Sony;81;34.95;PlayStation 3;T;2008
+SimCity Creator;1;Simulation;EA;69;17.95;Nintendo DS;M;2008
+Patapon;1;Action,Strategy;Sony;86;17.95;Sony PSP;T;2008
+Shaun White Snowboarding;1;Sports;Ubisoft;63;15.95;PlayStation 3;T;2008
+Iron Man;1;Action;Sega;44;17.95;Nintendo Wii;T;2008
+Sega Superstars Tennis;1;Sports;Sega;65;14.95;Nintendo DS;T;2008
+Lost Planet: Extreme Condition;1;Action;Capcom;67;16.95;PlayStation 3;T;2008
+Mirror's Edge;1;Action;EA;79;14.95;PlayStation 3;T;2008
+The Incredible Hulk;1;Action;Sega;46;16.95;Nintendo Wii;T;2008
+Condemned 2: Bloodshot;1;Action,Adventure;Sega;80;14.95;X360;T;2008
+Sega Superstars Tennis;4;Sports;Sega;71;12.95;Nintendo Wii;E;2008
+Viva Pi$?ata: Pocket Paradise;1;Simulation,Strategy;THQ;82;17.95;Nintendo DS;T;2008
+Tom Clancy's EndWar;1;Strategy;Ubisoft;76;17.95;PlayStation 3;M;2008
+Iron Man;1;Action;Sega;45;17.95;X360;M;2008
+Need for Speed: Undercover;4;Racing-Driving;EA;54;27.95;Nintendo Wii;E;2008
+Wall-E;4;Action;THQ;50;14.95;X360;E;2008
+Spectrobes: Beyond the Portals;1;Action,Role-Playing;Disney;70;11.95;Nintendo DS;M;2008
+MX vs. ATV Untamed;1;Educational;Ubisoft;59;16.95;Sony PSP;T;2008
+Mercenaries 2: World in Flames;1;Action;EA;72;15.95;PlayStation 3;E;2008
+Infinite Undiscovery;1;Action,Role-Playing;SquareEnix;68;17.95;X360;T;2008
+TNA iMPACT!;4;Sports;Midway;62;14.95;X360;M;2008
+Enemy Territory: Quake Wars;1;Action;Activision;69;14.95;X360;T;2008
+Fire Emblem: Shadow Dragon;1;Role-Playing,Strategy;Nintendo;81;19.95;Nintendo DS;M;2008
+Neopets Puzzle Adventure;1;Adventure,Role-Playing,Strategy;Capcom;70;17.95;Nintendo DS;T;2008
+Tales of Vesperia;1;Adventure,Role-Playing;Namco;79;27.95;X360;M;2008
+SingStar ABBA;8;Action;Sony;70;17.95;PlayStation 3;T;2008
+Dragon Ball Z: Burst Limit;2;Action;Atari,Namco;72;17.95;X360;E;2008
+Apollo Justice: Ace Attorney;1;Adventure,Simulation;Capcom;78;24.95;Nintendo DS;T;2008
+Castlevania: Order of Ecclesia;1;Action,Adventure,Role-Playing;Konami;85;24.95;Nintendo DS;T;2008
+Mega Man Star Force 2: Zerker X Ninja;1;Action,Role-Playing;Capcom;55;17.95;Nintendo DS;T;2008
+Enemy Territory: Quake Wars;1;Action;Activision;60;16.95;PlayStation 3;T;2008
+Namco Museum: Virtual Arcade;1;Action,Racing-Driving;Namco;63;17.95;X360;T;2008
+NASCAR 09;1;Racing-Driving,Sports;EA;69;19.95;X360;T;2008
+Unreal Tournament III;2;Action;Midway;82;14.95;X360;M;2008
+Shaun White Snowboarding;1;Racing-Driving,Sports;Ubisoft;63;16.95;Nintendo DS;T;2008
+The Last Remnant;1;Role-Playing;SquareEnix;66;14.95;X360;T;2008
+Dragon Ball Z: Burst Limit;2;Action;Atari,Namco;71;19.95;PlayStation 3;M;2008
+NASCAR 09;1;Racing-Driving,Sports;EA;65;22.95;PlayStation 3;E;2008
+MX vs. ATV Untamed;1;Racing-Driving;THQ;70;24.95;Nintendo Wii;E;2008
+The Incredible Hulk;1;Action;Sega;55;17.95;X360;E;2008
+Silent Hill: Homecoming;1;Action;Konami;70;17.95;X360;T;2008
+TNA iMPACT!;4;Sports;Midway;64;12.95;PlayStation 3;M;2008
+The Incredible Hulk;1;Action;Sega;55;16.95;PlayStation 3;T;2008
+Kung Fu Panda;1;Action;Activision;76;19.95;PlayStation 3;M;2008
+Tales of Symphonia: Dawn of the New World;4;Role-Playing;Namco;68;24.95;Nintendo Wii;T;2008
+Valkyrie Profile: Covenant of the Plume;1;Role-Playing,Strategy;SquareEnix;74;24.95;Nintendo DS;M;2008
+Spider-Man: Web of Shadows;1;Action;Activision;67;24.95;PlayStation 3;E;2008
+The Chronicles of Narnia: Prince Caspian;1;Role-Playing;Disney;54;10.95;Nintendo DS;M;2008
+Hot Shots Golf: Open Tee 2;1;Sports;Sony;82;14.95;Sony PSP;E;2008
+NBA Ballers: Chosen One;4;Sports;Midway;55;9.95;X360;T;2008
+Age of Empires: Mythologies;1;Strategy;THQ;78;17.95;Nintendo DS;T;2008
+LocoRoco 2;1;Action,Strategy;Sony;85;11.95;Sony PSP;M;2008
+Star Ocean: First Departure;1;Action,Role-Playing;SquareEnix;74;17.95;Sony PSP;T;2008
+Lost: Via Domus;1;Action,Adventure;Ubisoft;54;16.95;PlayStation 3;T;2008
+Bully: Scholarship Edition;2;Action,Adventure;Rockstar;83;17.95;Nintendo Wii;E;2008
+Facebreaker;2;Sports;EA;54;12.95;X360;M;2008
+Condemned 2: Bloodshot;1;Action,Adventure;Sega;82;14.95;PlayStation 3;T;2008
+Silent Hill: Homecoming;1;Action;Konami;71;17.95;PlayStation 3;E;2008
+Command & Conquer: Red Alert 3;1;Strategy;EA;77;14.95;X360;T;2008
+Viking: Battle for Asgard;1;Action;Sega;68;14.95;X360;M;2008
+Beijing 2008;4;Sports;Sega;60;14.95;X360;T;2008
+Don King Presents: Prizefighter;2;Sports;2K;56;14.95;X360;M;2008
+Command & Conquer 3: Kane's Wrath;1;Strategy;EA;75;17.95;X360;M;2008
+Lost: Via Domus;1;Action,Adventure;Ubisoft;55;17.95;X360;M;2008
+NHL 2K9;1;Sports;2K;69;14.95;X360;T;2008
+Eternal Sonata;2;Role-Playing;Namco;80;24.95;PlayStation 3;M;2008
+Viva Pi$?ata: Trouble in Paradise;2;Racing-Driving,Simulation,Strategy;Microsoft;82;17.95;X360;T;2008
+Viking: Battle for Asgard;1;Action;Sega;65;16.95;PlayStation 3;M;2008
+Neopets Puzzle Adventure;1;Role-Playing,Strategy;Capcom;52;14.95;Nintendo Wii;E;2008
+TNA iMPACT!;1;Sports;Midway;43;14.95;Nintendo Wii;E;2008
+Tomb Raider: Underworld;1;Action;Eidos;70;17.95;Nintendo Wii;T;2008
+The Club;4;Action;Sega;76;14.95;X360;T;2008
+The Chronicles of Narnia: Prince Caspian;2;Action,Role-Playing;Disney;56;14.95;X360;M;2008
+Cabela's Dangerous Hunts 2009;1;Sports;Activision;42;19.95;X360;M;2008
+Dark Messiah of Might and Magic: Elements;1;Action,Role-Playing;Ubisoft;52;17.95;X360;T;2008
+Nitrobike;4;Action,Racing-Driving,Sports;Ubisoft;49;14.95;Nintendo Wii;E;2008
+Culdcept Saga;4;Strategy;Namco;75;17.95;X360;T;2008
+MLB Power Pros 2008;2;Sports;2K;83;22.95;Nintendo Wii;E;2008
+Dragon Quest V: Hand of the Heavenly Bride;1;Role-Playing;SquareEnix;84;29.95;Nintendo DS;T;2008
+Alone in the Dark;1;Action,Adventure,Racing-Driving;Atari;58;14.95;X360;M;2008
+NBA 09: The Inside;4;Sports;Sony;63;14.95;PlayStation 3;M;2008
+Sega Superstars Tennis;4;Sports;Sega;67;16.95;PlayStation 3;M;2008
+Baja: Edge of Control;4;Racing-Driving,Simulation,Sports;THQ;65;16.95;X360;T;2008
+Destroy All Humans! Big Willy Unleashed;2;Adventure;THQ;53;17.95;Nintendo Wii;T;2008
+Space Invaders Extreme;1;Action;SquareEnix;85;16.95;Nintendo DS;T;2008
+Ultimate Band;1;Action,Simulation;Disney;69;14.95;Nintendo DS;E;2008
+The Club;4;Action;Sega;72;14.95;PlayStation 3;M;2008
+Madagascar: Escape 2 Africa;4;Action;Activision;58;24.95;PlayStation 3;M;2008
+NBA Ballers: Chosen One;4;Sports;Midway;54;14.95;PlayStation 3;M;2008
+Madagascar: Escape 2 Africa;4;Action;Activision;62;19.95;X360;T;2008
+Pro Evolution Soccer 2008;2;Sports;Konami;83;17.95;Nintendo Wii;T;2008
+Lost in Blue 3;1;Role-Playing;Konami;59;17.95;Nintendo DS;M;2008
+Afrika;1;Adventure,Simulation;Sony;63;47.95;PlayStation 3;T;2008
+NFL Head Coach 09;1;Simulation,Sports,Strategy;EA;64;14.95;PlayStation 3;T;2008
+NHL 2K9;1;Sports;2K;70;14.95;PlayStation 3;T;2008
+Brothers in Arms: Double Time;1;Action,Strategy;Ubisoft;45;17.95;Nintendo Wii;E;2008
+NFL Head Coach 09;1;Simulation,Sports,Strategy;EA;67;12.95;X360;E;2008
+NFL Tour;1;Action,Sports;EA;49;12.95;X360;M;2008
+Baja: Edge of Control;4;Racing-Driving,Simulation,Sports;THQ;61;17.95;PlayStation 3;M;2008
+NFL Tour;4;Action,Sports;EA;45;14.95;PlayStation 3;E;2008
+Wall-E;4;Action;THQ;51;17.95;PlayStation 3;M;2008
+Ninja Reflex;4;Action;EA;49;14.95;Nintendo Wii;E;2008
+Conflict: Denied Ops;4;Action;Eidos;52;12.95;X360;T;2008
+Top Spin 3;4;Sports;2K;78;19.95;X360;T;2008
+Blitz: The League II;2;Action,Sports;Midway;62;14.95;PlayStation 3;M;2008
+Hellboy: The Science of Evil;2;Action,Adventure;Konami;47;16.95;PlayStation 3;T;2008
+Castlevania Judgment;2;Action;Konami;49;17.95;Nintendo Wii;T;2008
+Death Jr. II: Root of Evil;2;Action;Eidos;71;17.95;Nintendo Wii;E;2008
+Spider-Man: Web of Shadows;1;Action;Activision;77;15.95;Nintendo DS;E;2008
+Alone in the Dark;1;Action,Adventure,Racing-Driving;Atari;39;14.95;Nintendo Wii;T;2008
+Final Fantasy Fables: Chocobo's Dungeon;1;Action,Role-Playing;SquareEnix;76;17.95;Nintendo Wii;M;2008
+Klonoa: Door to Phantomile;1;Action;Namco;77;17.95;Nintendo Wii;T;2008
+Battle of the Bands;2;Action,Simulation;THQ;58;14.95;Nintendo Wii;T;2008
+Hellboy: The Science of Evil;2;Action,Adventure;Konami;44;14.95;X360;M;2008
+Dragon Ball: Origins;1;Action,Adventure;Atari;78;15.95;Nintendo DS;M;2008
+Ninja Reflex;1;Action;EA;54;12.95;Nintendo DS;T;2008
+Space Bust-A-Move;1;Strategy;SquareEnix;71;17.95;Nintendo DS;M;2008
+Top Spin 3;1;Sports;2K;75;24.95;PlayStation 3;M;2008
+UEFA Euro 2008;7;Sports;EA;79;17.95;PlayStation 3;T;2008
+FIFA Street 3;4;Sports;EA;63;14.95;X360;T;2008
+Blitz: The League II;2;Action,Sports;Midway;68;12.95;X360;M;2008
+Target: Terror;1;Action;Konami;33;17.95;Nintendo Wii;M;2008
+Legendary;1;Action;Atari;47;17.95;X360;T;2008
+Universe at War: Earth Assault;1;Action,Strategy;Sega;66;14.95;X360;T;2008
+Smash Court Tennis 3;4;Simulation,Sports;Atari;55;14.95;X360;E;2008
+Lock's Quest;1;Action,Adventure,Strategy;THQ;80;14.95;Nintendo DS;E;2008
+N+;1;Action;Atari;82;14.95;Nintendo DS;M;2008
+FIFA Street 3;1;Sports;EA;63;17.95;PlayStation 3;T;2008
+Harvey Birdman: Attorney at Law;1;Adventure;Capcom;60;14.95;Nintendo Wii;M;2008
+Let's Tap;1;Simulation;Sega;70;17.95;Nintendo Wii;E;2008
+NHL 2K9;1;Sports;2K;65;14.95;Nintendo Wii;T;2008
+Conflict: Denied Ops;4;Action;Eidos;51;17.95;PlayStation 3;E;2008
+Worms: A Space Oddity;4;Action,Strategy;THQ;64;17.95;Nintendo Wii;M;2008
+UEFA Euro 2008;4;Sports;EA;80;14.95;X360;M;2008
+New International Track & Field;1;Action,Sports;Konami;73;14.95;Nintendo DS;M;2008
+Soul Bubbles;1;Strategy;Eidos;78;14.95;Nintendo DS;T;2008
+Zubo;1;Adventure,Role-Playing,Strategy;EA;75;14.95;Nintendo DS;E;2008
+Harvey Birdman: Attorney at Law;1;Adventure;Capcom;62;14.95;Sony PSP;M;2008
+Secret Agent Clank;1;Action;Sony;72;23.95;Sony PSP;M;2008
+Space Invaders Extreme;1;Action;SquareEnix;84;16.95;Sony PSP;M;2008
+Armored Core: For Answer;1;Action;Ubisoft;62;29.95;PlayStation 3;M;2008
+Legendary;1;Action;Atari;50;19.95;PlayStation 3;E;2008
+Armored Core: For Answer;1;Action;Ubisoft;64;24.95;X360;T;2008
+Looney Tunes: Cartoon Conductor;1;Action;Eidos;67;13.95;Nintendo DS;M;2008
+Hellboy: The Science of Evil;1;Action;Konami;42;14.95;Sony PSP;E;2008
+UEFA Euro 2008;1;Sports;EA;68;19.95;Sony PSP;E;2008
+Assassin's Creed: Altar's Chronicles;1;Action;Ubisoft;58;11.95;Nintendo DS;T;2008
+The Legend of Kage 2;1;Action;SquareEnix;70;14.95;Nintendo DS;E;2008
